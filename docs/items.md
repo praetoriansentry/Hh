@@ -7,7 +7,6 @@ Items
 * Garments
 * Tools
 * Weapons
-* Honey
 
 ### Food ###
 * Aid in recovery
