@@ -22,6 +22,7 @@ Hh Attribute Descriptions
     * Guild building activities
     * Checking in with friends or at popular areas
     * Special (sacred) places Hecca
+    * Influenced by the amount of honey you've ever had
 * Lost when operating without full health for a long period of time
 * High essence increases resistance to damage and healing rate
 
